@@ -1,5 +1,5 @@
 ### Hi there, I'm Abundance and welcome to my Github! 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbundanceEsim01&layout=compact)](https://github.com/AbundanceEsim01) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abundanceesim&layout=compact)]
 
 <!--![Abundance's GitHub stats](https://github-readme-stats.vercel.app/api?username=abundanceesim&show_icons=true&theme=dark)-->
 

@@ -1,5 +1,5 @@
-### Hi there, I'm Abundance and welcome to my Github! 👋
-(https://github-readme-stats.vercel.app/api/top-langs/?username=abundanceesim&layout=compact)
+### Hi there, I'm Abundance, a full-stack software developer. Welcome to my Github! 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abundanceesim&layout=compact)](https://github.com/abundanceesim) 
 
 <!--![Abundance's GitHub stats](https://github-readme-stats.vercel.app/api?username=abundanceesim&show_icons=true&theme=dark)-->
 

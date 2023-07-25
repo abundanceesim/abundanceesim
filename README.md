@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Abundance Esim</h1>
-<h3 align="center">A full-stack software developer </h3>
+<h3 align="center">A Fullstack Software Developer </h3>
 
 - 🌱 I’m currently learning **web development with React.js**
   

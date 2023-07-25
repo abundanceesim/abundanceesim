@@ -1,7 +1,21 @@
-### Hi there, I'm Abundance, a full-stack software developer. Welcome to my Github! 👋
+<h1 align="center">Hi👋, I'm Abundance Esim</h1>
+<h3 align="center">A full-stack software developer </h3>
+
+- 🌱 I’m currently learning **web development with React.js**
+  
+- 🤝🏼 I’m looking to collaborate on **any fun and interesting projects**
+  
+- ⚡ Fun fact, **I create both digital and traditional art**
+
+- 📫 How to reach me: **abundanceesim@gmail.com**
+  
+<!-- ### Hi there, I'm Abundance, a full-stack software developer. Welcome to my Github! 👋 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abundanceesim&layout=compact)](https://github.com/abundanceesim)   
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abundanceesim)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abundanceesim&layout=compact)](https://github.com/abundanceesim) 
+
 <!--![Abundance's GitHub stats](https://github-readme-stats.vercel.app/api?username=abundanceesim&show_icons=true&theme=dark)-->
 
 <!--

@@ -4,10 +4,12 @@
 - 🌱 I’m currently learning **web development with React.js**
   
 - 🤝🏼 I’m looking to collaborate on **any fun and interesting projects**
+
+- 💬 Ask me about **Frontend and fullstack web development and web design**
+  
+- 📫 How to reach me: **abundanceesim@gmail.com**
   
 - ⚡ Fun fact, **I create both digital and traditional art**
-
-- 📫 How to reach me: **abundanceesim@gmail.com**
   
 <!-- ### Hi there, I'm Abundance, a full-stack software developer. Welcome to my Github! 👋 -->
 

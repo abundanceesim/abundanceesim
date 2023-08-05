@@ -5,7 +5,7 @@
   
 - 🤝🏼 I’m looking to collaborate on **any fun and interesting projects**
 
-- 💬 Ask me about **Frontend and fullstack web development and design**
+- 💬 Ask me about **Frontend or fullstack web development and design**
   
 - 📫 How to reach me: **abundanceesim@gmail.com**
   

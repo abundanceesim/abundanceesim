@@ -21,7 +21,6 @@
 </p>
 <h1></h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abundanceesim&layout=compact)](https://github.com/abundanceesim)   
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=abundanceesim)](https://git.io/streak-stats)  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abundanceesim&layout=compact)](https://github.com/abundanceesim)   [![GitHub Streak](https://streak-stats.demolab.com?user=abundanceesim)](https://git.io/streak-stats) 
 
 <!--![Abundance's GitHub stats](https://github-readme-stats.vercel.app/api?username=abundanceesim&show_icons=true&theme=dark)-->

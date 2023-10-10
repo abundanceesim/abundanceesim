@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **web development with React.js**
   
-- 🤝🏼 I’m looking to collaborate on **any fun and interesting projects**
+- 🤝🏼 I’m looking to collaborate on **any cool or interesting projects**
 
 - 💬 Ask me about **Frontend or fullstack web development and design**
   

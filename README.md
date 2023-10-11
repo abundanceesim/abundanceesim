@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Abundance Esim</h1>
 <h3 align="center">A Fullstack Software Developer </h3>
 
-- 🌱 I’m currently learning **web development with React.js**
+- 🌱 I’m currently learning **mobile app development using Flutter**
   
 - 🤝🏼 I’m looking to collaborate on **any cool or interesting projects**
 

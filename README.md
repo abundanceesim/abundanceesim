@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Frontend or fullstack web development and design**
   
-- 📫 How to reach me: **abundanceesim@gmail.com**
+- 📫 How to reach me: **esimabundance@gmail.com**
   
 - ⚡ Fun fact, **I create both digital and traditional art**
   
